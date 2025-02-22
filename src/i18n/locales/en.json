@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "horoscope": "Horoscope",
+    "matchMaking": "Match Making",
+    "gemstones": "Gemstones",
+    "numerology": "Numerology",
+    "appointments": "Book Appointment",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Shiv Prakash Jyotish Karayalay",
+      "subtitle": "Expert Astrological Guidance for Life's Journey",
+      "cta": "Book a Consultation"
+    },
+    "horoscope": {
+      "title": "Horoscope Analysis",
+      "description": "Get detailed insights about your future through expert horoscope analysis"
+    },
+    "matchMaking": {
+      "title": "Match Making",
+      "description": "Find your perfect match with our comprehensive compatibility analysis"
+    },
+    "gemstones": {
+      "title": "Gemstone Recommendations",
+      "description": "Discover the right gemstones to enhance your life's positive energies"
+    },
+    "numerology": {
+      "title": "Numerology",
+      "description": "Understand the influence of numbers in your life path"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Schedule your consultation today",
+      "cta": "Contact Us"
+    },
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "services": "Our Services",
+    "company": "Company",
+    "address": "Our Location",
+    "description": "Professional astrology services with over 30 years of experience",
+    "horoscope": "Horoscope Analysis",
+    "matchMaking": "Match Making",
+    "gemstones": "Gemstones",
+    "numerology": "Numerology",
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  }
+}
